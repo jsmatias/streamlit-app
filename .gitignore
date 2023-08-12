@@ -1,0 +1,18 @@
+# Python-related
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+__pycache__/  
+*.egg-info/
+dist/
+build/
+# OS-specific files
+.DS_Store
+Thumbs.db
+# Virtual environments
+venv/
+# Streamlit
+.streamlit/
+# VS code
+.vscode/
